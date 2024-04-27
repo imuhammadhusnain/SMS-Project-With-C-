@@ -1,2 +1,3 @@
 # SMS-Project-With-C-
-First project using C# .NET Framework winforms application
+The first project used the C# .NET Framework Winforms application. 
+It will have changes from two devices using the same account.
